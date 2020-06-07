@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>ООП</title>
+	<title>ООП git</title>
 </head>
 <body>
 	<div style="margin: 0 auto;">
