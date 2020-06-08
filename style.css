@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.catalog{
+	display: grid;
+	justify-content: center;
+}
+
+.product{
+	width: 160px;
+    height: 200px;
+    background-color: beige;
+    border-radius: 25px;
+
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#id{
+	position: absolute;
+	margin-top: 20px;
+    margin-left: 20px;
+
+        width: 30px;
+    height: 30px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
