@@ -47,11 +47,8 @@ class User extends Shop {
 
 	public function rights() {
 
-		if ($status !== 'moderator') {
-			echo "у вас нет прав ";
-		} else {
-			echo "Добро пожаловать";
-		}
+		echo "вы зашли как" . " " . $this->status . "<br>";
+
 	}
 }
 

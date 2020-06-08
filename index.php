@@ -11,7 +11,7 @@
 	<div class="catalog">
 		<?php
 
-$shop = new Shop('сосатб', 'some.some.28@mail.ru', 'Sosiska');
+$shop = new Shop('moderator', 'some.some.28@mail.ru', 'Sosiska');
 $shop->makeProducts();
 $shop->getInfo();
 $User = new User('moderator', 'coco.coco@mail.ru', 'Edick');
